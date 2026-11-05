@@ -90,7 +90,7 @@ pyfunkin/
 
 ## 👤 Author / Автор
 
-Created with ❤️ by **[PyFunkinDev](https://github.com/PyFunkinDev)**  
+Created with ❤️ by **[ShapePlace](https://github.com/ShapePlace)**  
 *"Just a person. I wanted to make my own engine for FNF. Developer of PyFunkin Engine ☺️"*
 
 
